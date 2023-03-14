@@ -1,0 +1,43 @@
+# Speciation
+
+## Species
+
+Biological species concept (Dobzhansky 1937; Mayr 1942; Coyne and Orr 2004)
+
+Pragmiaticism: Reproductive isolation need not to be complete (Coyne and Orr 2004; Gavrilets 2004)
+
+## Geographical classification of modes of speciation
+
+Allopatric
+
+Parapatric
+
+Sympatric
+
+## Concepts and definitions
+
+-   Biological species concept
+
+-   Allopatric
+
+-   Parapatric
+
+-   Sympatric
+
+-   Reproductive isolation (reduction or prevention of gene flow between populations)
+
+-   Reproductive barriers (mechanisms)
+
+-   Speciation
+
+-   Specie
+
+## References and further literature 
+
+-   Coyne and Orr 2004
+
+-   Dobzhansky 1937
+
+-   Gavrilets 2004
+
+-   Mayr 1942

@@ -1,0 +1,49 @@
+# Preface {.unnumbered}
+
+This book is an attempt at producing the first evolvable textbook, tracking its evolutionary history in his own DNA code: text, R, bash and more.
+
+Marc-Olivier Beausoleil
+
+## Acknowledgements
+
+-   Introduction
+
+    -   Variation
+
+    -   The complexity of life
+
+-   Historical background
+
+-   What evolution is
+
+    -   Evolutionary mechanisms
+
+        -   Mutation and variation
+
+        -   Natural selection: non-random sampling
+
+        -   Genetic drift : random sampling
+
+-   Population genetics and genomics
+
+    -   Quantitative genetics and genomics
+
+    -   Genome evolution
+
+-   Speciation and extinction
+
+    -   The rise and fall of species
+
+-   Deep time history of life
+
+    -   Phylogeny
+
+    -   Biogeography
+
+    -   Fossil record
+
+    -   Major transitions
+
+-   Developmental
+
+-   Human evolution
